@@ -67,10 +67,8 @@ If you like this project, consider supporting me:
 
 ## 🔗 Connect With Me
 
-[![Instagram](https://img.shields.io/badge/Instagram-@yourusername-E4405F?logo=instagram&logoColor=white&style=for-the-badge)](https://instagram.com/yourusername)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-@yourusername-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/yourusername)
-
-*Replace `yourusername` in the links above with your actual usernames.*
+[![Instagram](https://img.shields.io/badge/Instagram-@yourusername-E4405F?logo=instagram&logoColor=white&style=for-the-badge)](https://instagram.com/himanshuyadxx)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-@yourusername-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/himanshuyadxx)
 
 ---
 
