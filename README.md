@@ -61,14 +61,14 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 If you like this project, consider supporting me:
 
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-orange?logo=buy-me-a-coffee&style=for-the-badge)](https://www.buymeacoffee.com/yourusername)
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-orange?logo=buy-me-a-coffee&style=for-the-badge)](https://www.buymeacoffee.com/HimanshuYadxx)
 
 ---
 
 ## 🔗 Connect With Me
 
-[![Instagram](https://img.shields.io/badge/Instagram-@HimanshuYadxx-E4405F?logo=instagram&logoColor=white&style=for-the-badge)](https://instagram.com/himanshuyadxx)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-@HimanshuYadxx-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/himanshuyadxx)
+[![Instagram](https://img.shields.io/badge/Instagram-@HimanshuYadxx-E4405F?logo=instagram&logoColor=white&style=for-the-badge)](https://instagram.com/HimanshuYadxx)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-HimanshuYadxx-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/HimanshuYadxx)
 
 ---
 
